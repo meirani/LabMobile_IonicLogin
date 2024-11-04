@@ -4,7 +4,7 @@
 ## Praktikum Pemograman Mobile Shift D
 
 # Demo
-![App Demo](2024-11-05%00-55-15.gif)
+![App Demo](2024-11-05%2000-55-15.gif)
 
 # Penjelasan
 
