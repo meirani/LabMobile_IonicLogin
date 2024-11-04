@@ -8,4 +8,8 @@
 
 # Penjelasan
 
+### Membuat Database dan menghubungkannya
+#### File Koneksi.php pada direktori laragon
+
+
 
